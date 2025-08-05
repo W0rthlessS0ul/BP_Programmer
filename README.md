@@ -47,7 +47,7 @@ This program allows you to flash EEPROM memory using **Bus Pirate** via the foll
 
 ## 🎉 Final Outcome
 ### App Appearance
-![App Appearance](img/gif/app_appearance.gif)
+![App Appearance](img/app_appearance.png)
 
 ### I2C Flash
 ![I2C Flash](img/gif/I2C_Flash.gif)
