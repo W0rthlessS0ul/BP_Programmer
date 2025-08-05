@@ -1,0 +1,3 @@
+pyserial
+PyQt5
+git+https://github.com/juhasch/pyBusPirateLite.git@master#egg=pyBusPirateLite
