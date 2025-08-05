@@ -28,7 +28,7 @@ This program allows you to flash EEPROM memory using **Bus Pirate** via the foll
 
 - Install Python on your system
 - Enter the command `pip install -r requirements.txt` to install the necessary libraries
-- Run the `Programmer.py` file from src folder
+- Run the `BP_Programmer.py` file from src folder
 
 </div>
 </details>
